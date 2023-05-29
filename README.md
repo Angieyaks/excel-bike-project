@@ -36,7 +36,7 @@ Dependencies.
 
 ### The excel-bike-project has the following dependencies:
 
-## Microsoft Excel (version X.X or higher)
+Microsoft Excel (version X.X or higher)
 Basic understanding of Excel functions and features
 
 ### License
