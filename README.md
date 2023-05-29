@@ -31,12 +31,15 @@ To get started with the excel-bike-project, follow the instructions below:
 3. Run any necessary data cleaning steps, as outlined in the README.
 4. Proceed with the data analysis and visualization process using the provided Excel functions and features.
 5. Explore the interactive dashboard and experiment with the filters to gain insights into the bike sales data.
-Dependencies
-6. The excel-bike-project has the following dependencies:
+Dependencies.
 
-### Microsoft Excel (version X.X or higher)
+
+### The excel-bike-project has the following dependencies:
+
+## Microsoft Excel (version X.X or higher)
 Basic understanding of Excel functions and features
-License
+
+### License
 The excel-bike-project is released under the MIT License. Feel free to modify and distribute the project as per the terms of the license.
 
 ### Acknowledgements
